@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Athletics",
+  "description": "High-performance athletic footwear experience with speed laboratory, interactive customization, and technical spec analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
